@@ -788,8 +788,8 @@ The four videos form a conceptual chain: **Logs → Odds → Odds Ratios → Log
 
 ## Published report on GitHub Pages
 
-<https://sora-sky-sora.github.io/W04/Hosoda%20Sora-W04-1-Reflection%20on%20Logistic%20Regression%20and%20Ch8.html>
+<https://sora-sky-sora.github.io/video-quiz/Hosoda%20Sora,%20Video%20quiz%20redo.html>
 
 ## GitHub Repository
 
-<https://github.com/Sora-Sky-Sora/W04>
+<https://github.com/Sora-Sky-Sora/video-quiz>
