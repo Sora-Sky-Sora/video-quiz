@@ -358,7 +358,7 @@ OR <- gold_odds / bronze_odds
 OR
 ```
 
-::: {.callout-note title="Notes from class"}
+::: {.callout-note title="Notes"}
 The odds ratio is a multiplier. If the odds ratio is 1, the two groups have the same odds. If it is greater than 1, the comparison group has higher odds than the reference group. If it is less than 1, the comparison group has lower odds than the reference group.
 
 In this example, Bronze is the reference group because it is the first level. `loyalty_tier` was generated independently of `responded`, so a strong relationship is not expected.
